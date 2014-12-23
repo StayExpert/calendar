@@ -1,0 +1,23 @@
+{
+  "name": "calendar",
+  "version": "0.1.0",
+  "description": "a robot syncing promos calendar to Google Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayoou/calendar.git"
+  },
+  "keywords": [
+    "google",
+    "sayoou"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayoou/calendar/issues"
+  },
+  "homepage": "https://github.com/sayoou/calendar"
+}
